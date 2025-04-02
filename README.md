@@ -13,4 +13,4 @@
 
 ## Task #4
 ![Vigenère Decode screenshot](image-1.png)
-- 
+- Bit shifting is an operation that requires moving a bit to the left or right, which will consequently change the hash significantly. Criminals can hide evidence by shifting a bit, creating unrecognizeable data. Understanding bit shifting can help restore data and unreadable files.
