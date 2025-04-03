@@ -6,7 +6,7 @@
 - CyberChef was used to perform simple encryptions and bit shifting.
 
 ## Task #1 - Import Hash Database
-![Autopsy screenshot](image.png)
+![Import hash set screenshot](image-4.png)
 - Importing a hash database assists invesitgators in filtering out irrelevant files, as well as quickly identifying malware or viruses. It also serves as a quick method for identifying and matching hashes. Importing and exporting a hash database alos gives investigators access to these hashes across multiple devices.
 
 ## Task #2 - create Hash Database
