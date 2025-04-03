@@ -1,7 +1,13 @@
 # df_mod4_P4
+## Objectives
+- This readMe details the outcome of the four tasks described for the Module 4 project.
+- Autopsy was used to import a hash database, as well as create one with obsolete images.
+- WinHex was used to calculate hashes in order to identify changes in file parameters.
+- CyberChef was used to perform simple encryptions and bit shifting.
 
 ## Task #1 - Import Hash Database
 ![Autopsy screenshot](image.png)
+- Importing a hash database assists invesitgators in filtering out irrelevant files, as well as quickly identifying malware or viruses. It also serves as a quick method for identifying and matching hashes. Importing and exporting a hash database alos gives investigators access to these hashes across multiple devices.
 
 ## Task #2 - create Hash Database
 ![Known bad files screenshot](image-2.png)
